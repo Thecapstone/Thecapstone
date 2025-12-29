@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Thecapstone
-- 👀 I’m interested in programming, and technical writing
-- 🌱 I’m currently learning django and HTML and have already learnt python.
-- 💞️ I’m looking to collaborate on writing gigs, or coding projects or cohorts
-- 📫 Reach out to me on twitter-- @octahaven22
+- 👀 A developer, experienced at programming backend systems in Python
+- 🌱 I design, test, and optimize systems with full functionality in admin, authentication, authorization, db management, and APIs...  
+- 💞️ optimizing and evaluating prompts for LLMs while integrating AI systems into projects
+- 📫 Reach out to me on Linkedin-- Thecapstone Mogbolu
 
 <!---
 Thecapstone/Thecapstone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
