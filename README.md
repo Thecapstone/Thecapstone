@@ -6,7 +6,7 @@ I am a passionate backend developer, driven by a curiosity for technology and bu
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on building the world's first-ever developer visibility software for engineers called WaitForIt. Because backend engineers, SREs and other less UI focused branches of software engineering have talented people handling incredible complexity in the dark, i decided to build a solution that helps us log our process, journey, architectural decisions, and tradeoffs in the form of logs which are then aggregated automatically and turned into a tech article by our AI layer. Explore our website here, join the waitlist and be notified once we launch [WaitForIt](https://waitforit-frontend.vercel.app/)
+- 🔭 I'm currently working on building the world's first-ever developer visibility software for engineers called [WaitForIt](https://waitforit-frontend.vercel.app/). Because backend engineers, SREs and other less UI focused branches of software engineering have talented people handling incredible complexity in the dark, i decided to build a solution that helps us log our process, journey, architectural decisions, and tradeoffs in the form of logs which are then aggregated automatically and turned into a tech article by our AI layer. Explore our website here, join the waitlist and be notified once we launch 
 - 🌐 Proud member of the [She Code Africa Student Community](https://shecodeafrica.org/), where i Learned DevOps.
 - I also happen to be the CTO of [Blanet Africa](https://blanet.africa), a telco company directed at solving the problem of indecent exposure of children on the internet in a way no other organsation has solved it before.
 
