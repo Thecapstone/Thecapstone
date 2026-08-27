@@ -6,8 +6,9 @@ I am a passionate backend developer, driven by a curiosity for technology and bu
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on building an app for writers. The aim? Overcoming writers block with community
-- 🌐 Proud member of the [She Code Africa Student Community](https://shecodeafrica.org/), learning DevOps.
+- 🔭 I'm currently working on building the world's first-ever developer visibility software for engineers called WaitForIt. Because backend engineers, SREs and other less UI focused branches of software engineering have talented people handling incredible complexity in the dark, i decided to build a solution that helps us log our process, journey, architectural decisions, and tradeoffs in the form of logs which are then aggregated automatically and turned into a tech article by our AI layer. Explore our website here, join the waitlist and be notified once we launch [WaitForIt](https://waitforit-frontend.vercel.app/)
+- 🌐 Proud member of the [She Code Africa Student Community](https://shecodeafrica.org/), where i Learned DevOps.
+- I also happen to be the CTO of [Blanet Africa](https://blanet.africa), a telco company directed at solving the problem of indecent exposure of children on the internet in a way no other organsation has solved it before.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,html,django)](https://skillicons.dev)
@@ -19,8 +20,8 @@ I am a passionate backend developer, driven by a curiosity for technology and bu
 
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of Python and Django for building secure, scalable systems.
-  - Navigating through the world of Account authentication for better system reliability.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - Navigating through the world of AI model pipelines for increased automation and process tracking.
+  - Diving into DSA and Data Science for efficient data handling, storage, and manipulation.
 
 
 ## 📬 Get in Touch
